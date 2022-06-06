@@ -1,0 +1,10 @@
+{
+    "name": "svetlana/my-p",
+    "authors": [
+        {
+            "name": "Svetlana Shmidt",
+            "email": "svetashmidt93@gmail.com"
+        }
+    ],
+    "require": {}
+}
